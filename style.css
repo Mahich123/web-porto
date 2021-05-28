@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 .highlight {
     color: orange;
@@ -15,4 +16,11 @@ h1 {
 }
 .half-width img {
     width: 100%;
+}
+.top_banner {
+    background-image: url("images/top-banner.png");
+}
+section {
+    height:  500px;
+    background: no-repeat;
 }
